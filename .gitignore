@@ -1,0 +1,12 @@
+Thumbs.db
+desktop.ini
+.DS_Store
+*.bak
+
+# unfinished - remove the line as each is completed
+Case Study 3 - Foodie-Fi/
+Case Study 4 - Data Bank/
+
+# working notes, not for publication
+Case Study 2 - Pizza Runner/pizza_runner_review.md
+Case Study 2 - Pizza Runner/pizza_runner_writeup_questions.md
